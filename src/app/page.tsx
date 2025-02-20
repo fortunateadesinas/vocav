@@ -95,7 +95,7 @@ const Home: React.FC = () => {
 
 
   return (
-    <div className="h-[100rem] w-full bg-black bg-dot-white/[0.2] relative flex items-center justify-center">
+    <div className="h-[58rem] w-full bg-black bg-dot-white/[0.2] relative flex items-center justify-center">
       <div className="relative overflow-hidden h-screen">
         <div className="max-w-[85rem] mx-auto px-4 sm:px-6 py-10 sm:py-24">
           <div className="text-center">
